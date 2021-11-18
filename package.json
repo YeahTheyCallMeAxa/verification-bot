@@ -1,0 +1,23 @@
+{
+  "name": "7bchillout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "captcha-for-discord": "^1.0.0",
+    "discord-button-captcha": "^1.2.3",
+    "discord-mongo-economy": "^0.3.0",
+    "discord-pages": "^1.0.2",
+    "discord-prefix": "^3.0.0",
+    "discord.js": "^12.5.3",
+    "discord.js-akago": "^4.0.6",
+    "mongo-glob-economy": "^1.0.12",
+    "node-fetch": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
